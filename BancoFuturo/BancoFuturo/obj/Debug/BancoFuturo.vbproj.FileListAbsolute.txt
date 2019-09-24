@@ -1,0 +1,15 @@
+C:\Users\soporte\Desktop\Proyecto banco futuro\BancoFuturo\BancoFuturo\bin\Debug\BancoFuturo.exe.config
+C:\Users\soporte\Desktop\Proyecto banco futuro\BancoFuturo\BancoFuturo\bin\Debug\BancoFuturo.exe
+C:\Users\soporte\Desktop\Proyecto banco futuro\BancoFuturo\BancoFuturo\bin\Debug\BancoFuturo.pdb
+C:\Users\soporte\Desktop\Proyecto banco futuro\BancoFuturo\BancoFuturo\bin\Debug\BancoFuturo.xml
+C:\Users\soporte\Desktop\Proyecto banco futuro\BancoFuturo\BancoFuturo\obj\Debug\BancoFuturo.vbprojAssemblyReference.cache
+C:\Users\soporte\Desktop\Proyecto banco futuro\BancoFuturo\BancoFuturo\obj\Debug\BancoFuturo.Form1.resources
+C:\Users\soporte\Desktop\Proyecto banco futuro\BancoFuturo\BancoFuturo\obj\Debug\BancoFuturo.Frm_registroClientes.resources
+C:\Users\soporte\Desktop\Proyecto banco futuro\BancoFuturo\BancoFuturo\obj\Debug\BancoFuturo.Resources.resources
+C:\Users\soporte\Desktop\Proyecto banco futuro\BancoFuturo\BancoFuturo\obj\Debug\BancoFuturo.vbproj.GenerateResource.cache
+C:\Users\soporte\Desktop\Proyecto banco futuro\BancoFuturo\BancoFuturo\obj\Debug\BancoFuturo.vbproj.CoreCompileInputs.cache
+C:\Users\soporte\Desktop\Proyecto banco futuro\BancoFuturo\BancoFuturo\obj\Debug\BancoFuturo.exe
+C:\Users\soporte\Desktop\Proyecto banco futuro\BancoFuturo\BancoFuturo\obj\Debug\BancoFuturo.xml
+C:\Users\soporte\Desktop\Proyecto banco futuro\BancoFuturo\BancoFuturo\obj\Debug\BancoFuturo.pdb
+C:\Users\soporte\Desktop\Proyecto banco futuro\BancoFuturo\BancoFuturo\bin\Debug\Banco.mdf
+C:\Users\soporte\Desktop\Proyecto banco futuro\BancoFuturo\BancoFuturo\bin\Debug\Banco_log.ldf
